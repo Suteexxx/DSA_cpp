@@ -1,4 +1,4 @@
-# C++ Programming & Data Structures Practice 🚀
+# C++ Programming & Data Structures Practice 
 
 Welcome to my repository dedicated to mastering C++ and practicing core Data Structures and Algorithms (DSA) concepts. This repository serves as a personal log of my coding journey, implementation details, and problem-solving progress.
 
